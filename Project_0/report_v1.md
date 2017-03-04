@@ -12,7 +12,7 @@
 **a)Power Source**
 
 **b)Control System:**
-Control system contains two control loops as inner one is current-control loop and outer one ise speed control loop.
+Control system contains two control loops as inner one is current-control loop and outer one is speed control loop.
 
 #3.Acceleration Curve from Stationary to Rated Speed
 
