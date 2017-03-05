@@ -9,8 +9,7 @@
 
 #2.Information about Power Source and Control System
 
-**a)Power Source:** Voltage value of the source should be greater than the emf of the motor to run it in motoring mode.
-
+**a)Power Source:** Voltage value of the source should be greater than the emf of the motor to run it in motoring mode.Power source is controller by a chopper which consists of GTO thyristor and free-wheeling diode D1.
 **b)Control System:**
 Control system contains two control loops as inner one is current-control loop and outer one is speed control loop.
 
